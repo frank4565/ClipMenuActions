@@ -1,0 +1,4 @@
+ClipMenuActions
+===============
+
+Customised ClipMenu Actions
